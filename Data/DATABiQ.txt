@@ -1,0 +1,729 @@
+===============================================================================
+                    PORTAFOLIO CORPORATIVO - DATABiQ
+              CONSULTORA DE INTELIGENCIA DE NEGOCIOS Y CIENCIA DE DATOS
+===============================================================================
+
+FECHA DE DOCUMENTO: Diciembre 2024
+VERSIÓN: 1.0
+AUTOR: Edwin Quintero Alzate
+EMPRESA: DATABiQ - Consultora de Inteligencia de Negocios
+
+===============================================================================
+                             RESUMEN EJECUTIVO
+===============================================================================
+
+DATABiQ es una consultora especializada en inteligencia de negocios que 
+transforma datos complejos en soluciones estratégicas para empresas de todos 
+los sectores. Fundada y dirigida por Edwin Quintero Alzate, Ingeniero 
+Industrial con Maestría en Big Data e Inteligencia de Negocios, la empresa 
+combina más de 12 años de experiencia práctica en gestión industrial con 
+expertise avanzado en tecnologías emergentes.
+
+ESLOGAN CORPORATIVO:
+"TRANSFORME DATOS COMPLEJOS EN SOLUCIONES ESTRATÉGICAS PARA SU NEGOCIO"
+
+===============================================================================
+                          INFORMACIÓN CORPORATIVA
+===============================================================================
+
+RAZÓN SOCIAL:           DATABiQ
+TIPO DE EMPRESA:        Consultora de Inteligencia de Negocios
+FUNDADOR Y CEO:         Edwin Quintero Alzate
+SEDE PRINCIPAL:         Pereira, Risaralda, Colombia
+DIRECCIÓN FÍSICA:       Calle 62ª # 5A 13, Barrio Parque Industrial
+ÁREA DE COBERTURA:      Nacional e Internacional
+
+CONTACTO COMERCIAL:
+├── Email Corporativo:   databiq29@gmail.com
+├── Email Personal:      egqa1975@gmail.com
+├── Teléfono Principal:  +57 321 719 9749
+├── Teléfono Alterno:    +57 302 857 7491
+├── WhatsApp Business:   +57 321 719 9749
+└── Sitio Web Oficial:   https://www.databiq.com
+
+REDES PROFESIONALES:
+├── LinkedIn:            https://www.linkedin.com/in/edwinquintero0329/
+├── GitHub Portfolio:    https://github.com/Edwin1719
+└── Portafolio Notion:   https://distinct-buzzard-43f.notion.site/
+
+===============================================================================
+                            PERFIL DEL FUNDADOR
+===============================================================================
+
+EDWIN GONZALO QUINTERO ALZATE
+Ingeniero Industrial | Especialista en Ciencia de Datos e Inteligencia Artificial
+
+FORMACIÓN ACADÉMICA:
+├── Maestría en Big Data e Inteligencia de Negocios
+│   Universidad Isabel I de Castilla, España (2023)
+├── Licenciatura en Ingeniería Industrial  
+│   Fundación Universidad San José, Colombia (2023)
+└── Tecnología en Gestión de Mercados
+    SENA, Colombia (2022)
+
+CERTIFICACIONES OFICIALES:
+├── PL 300 Microsoft (Data Analyst Associate)
+├── Excel Expert 2019 - Microsoft
+├── Master Digital Marketing & Web Analytics
+├── Artificial Intelligence with Python
+├── Certificate Program in Big Data and Data Analysis
+├── Business Intelligence Specialist
+└── SQL Server Integration Services
+
+COMPETENCIAS TÉCNICAS:
+├── Python Expert (2+ años, 80% de proyectos en portfolio)
+├── Power BI Certified por Microsoft (4+ años de experiencia)
+├── SQL Server & Gestión de Bases de Datos (2+ años)
+├── Machine Learning & Deep Learning
+├── Inteligencia Artificial Generativa
+├── Automatización de Procesos con Python
+└── Análisis Estadístico y Minería de Datos
+
+IDIOMAS:
+├── Español: Nativo
+└── Inglés: Competente (Nivel B2)
+
+===============================================================================
+                       TRAYECTORIA PROFESIONAL INTEGRAL
+===============================================================================
+
+EVOLUCIÓN ESTRATÉGICA: 12+ AÑOS DE EXPERIENCIA
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ETAPA ACTUAL | CONSULTOR INDEPENDIENTE & CEO DATABiQ (2023 - PRESENTE)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+POSICIÓN:       Especialista en Ciencia de Datos & Business Intelligence
+UBICACIÓN:      Área Metropolitana de Pereira, Colombia
+MODALIDAD:      Consultoría Independiente y Servicios Remotos
+
+LOGROS PRINCIPALES:
+├── Fundación y dirección ejecutiva de DATABiQ
+├── Desarrollo de 28 proyectos exitosos en 4 áreas especializadas
+├── Establecimiento de tarifas profesionales: $40-150 USD/hora
+├── Creación de 25+ repositorios GitHub con soluciones técnicas
+├── Implementación de 3 aplicaciones web desplegadas
+├── Atención a cartera diversificada: construcción, PyMEs, startups
+└── Generación de ingresos sostenibles en mercado internacional
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TRANSICIÓN TECNOLÓGICA | ASISTENTE DE COSTOS (2022-2023)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+EMPRESA:        CONSORCIO RUTA-40
+UBICACIÓN:      Fusagasugá, Colombia
+PERÍODO:        Junio 2022 - Junio 2023
+
+RESPONSABILIDADES CLAVE:
+├── Análisis financiero avanzado con herramientas de Business Intelligence
+├── Implementación exitosa de Power BI para reportes corporativos
+├── Desarrollo de soluciones automatizadas para gestión de datos
+├── Asistencia técnica especializada para optimización de procesos
+└── Catalizador de transición definitiva hacia ciencia de datos
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+GESTIÓN ADMINISTRATIVA | ASISTENTE CONTABLE (2018-2019)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+EMPRESA:        CAIRO CONSTRUCTIONS
+UBICACIÓN:      Pereira, Colombia
+PERÍODO:        Marzo 2018 - Febrero 2019
+
+FUNCIONES EJECUTADAS:
+├── Gestión integral de información contable y análisis de costos
+├── Administración de nómina y elaboración de estados financieros
+├── Medición y reconocimiento de recursos financieros
+└── Preparación de reportes ejecutivos según normativas vigentes
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FUNDACIÓN TÉCNICA | ASISTENTE TÉCNICO (2013-2015)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+EMPRESA:        CONSORCIO RUTA DEL SOL
+UBICACIÓN:      Agua Chica Cesar, Colombia
+PERÍODO:        Agosto 2013 - Febrero 2015
+
+EXPERIENCIA ADQUIRIDA:
+├── Control y monitoreo de costos técnicos en infraestructura vial
+├── Supervisión de plantas industriales multimillonarias
+├── Monitoreo de ejecución presupuestaria según estándares técnicos
+├── Clasificación y verificación de operaciones de costos
+└── Base sólida en gestión de proyectos de gran escala
+
+===============================================================================
+                         CARTERA DE SERVICIOS PROFESIONALES
+===============================================================================
+
+METODOLOGÍA DE TRABAJO:
+DATABiQ emplea metodologías ágiles y probadas para la entrega de soluciones 
+de alta calidad, combinando análisis técnico riguroso con comprensión profunda 
+de necesidades empresariales.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SERVICIO 1: MACHINE LEARNING Y MODELOS PREDICTIVOS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TARIFA PROFESIONAL:     $75 - $125 USD por hora
+NIVEL DE COMPLEJIDAD:   Alto
+TIEMPO DE ENTREGA:      2-8 semanas según proyecto
+
+DESCRIPCIÓN:
+Desarrollo e implementación de algoritmos de aprendizaje automático para 
+predecir tendencias, optimizar operaciones empresariales y mejorar 
+experiencias de clientes mediante modelos predictivos avanzados.
+
+SERVICIOS INCLUIDOS:
+├── Análisis predictivo y descriptivo de datos empresariales
+├── Modelos de clasificación y regresión para toma de decisiones
+├── Sistemas de recomendación personalizados
+├── Procesamiento de lenguaje natural (NLP)
+├── Análisis de series temporales y forecasting
+├── Detección de anomalías y patrones
+├── Optimización de procesos mediante ML
+└── Validación y métricas de rendimiento de modelos
+
+TECNOLOGÍAS UTILIZADAS:
+Python, Scikit-learn, Pandas, NumPy, TensorFlow, Keras, XGBoost, Random Forest
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SERVICIO 2: INTELIGENCIA ARTIFICIAL GENERATIVA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TARIFA PROFESIONAL:     $85 - $150 USD por hora
+NIVEL DE COMPLEJIDAD:   Muy Alto
+TIEMPO DE ENTREGA:      3-12 semanas según proyecto
+
+DESCRIPCIÓN:
+Implementación de IA generativa y Large Language Models (LLM) para generar 
+insights estratégicos, automatizar creación de contenido y desarrollar 
+aplicaciones inteligentes adaptables a necesidades específicas.
+
+SERVICIOS INCLUIDOS:
+├── Chatbots conversacionales avanzados
+├── Generación automática de contenido empresarial
+├── Análisis de sentimientos y emociones
+├── Asistentes virtuales especializados
+├── Sistemas de respuesta automática inteligente
+├── Traducción y localización de contenido
+├── Resumen automático de documentos
+└── Integración con APIs de IA (OpenAI, Claude, etc.)
+
+TECNOLOGÍAS UTILIZADAS:
+OpenAI GPT, Claude AI, Ollama, Hugging Face, LangChain, Streamlit
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SERVICIO 3: AUTOMATIZACIÓN DE TAREAS Y PROCESOS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TARIFA PROFESIONAL:     $60 - $100 USD por hora
+NIVEL DE COMPLEJIDAD:   Medio-Alto
+TIEMPO DE ENTREGA:      1-6 semanas según proyecto
+
+DESCRIPCIÓN:
+Automatización mediante Python para mejorar eficiencia operativa, minimizar 
+errores humanos y optimizar flujos de trabajo empresariales complejos.
+
+SERVICIOS INCLUIDOS:
+├── Scripts de automatización personalizados
+├── Integración de sistemas empresariales
+├── Procesamiento automático de documentos (PDF, Excel, Word)
+├── Flujos de trabajo automatizados (ETL)
+├── Automatización de reportes periódicos
+├── Web scraping y extracción de datos
+├── Automatización de comunicaciones (email, SMS)
+└── Monitoreo y alertas automatizadas
+
+TECNOLOGÍAS UTILIZADAS:
+Python, Selenium, BeautifulSoup, Pandas, Openpyxl, Schedule, SMTP
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SERVICIO 4: VISUALIZACIÓN DE DATOS CON POWER BI
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TARIFA PROFESIONAL:     $50 - $90 USD por hora
+NIVEL DE COMPLEJIDAD:   Medio
+TIEMPO DE ENTREGA:      1-4 semanas según proyecto
+
+DESCRIPCIÓN:
+Creación de dashboards interactivos e informes comprensibles para facilitar 
+toma de decisiones informada mediante Power BI y herramientas avanzadas 
+de visualización de datos.
+
+SERVICIOS INCLUIDOS:
+├── Dashboards interactivos personalizados
+├── Reportes dinámicos y actualizables
+├── KPIs y métricas clave empresariales
+├── Análisis en tiempo real
+├── Integración con múltiples fuentes de datos
+├── Diseño gráfico y UX optimizado
+├── Capacitación en uso de herramientas
+└── Mantenimiento y actualizaciones
+
+TECNOLOGÍAS UTILIZADAS:
+Power BI Desktop, Power Query, DAX, Excel, SQL Server, SharePoint
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SERVICIO 5: CONSULTORÍA EMPRESARIAL INTEGRAL
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TARIFA PROFESIONAL:     $40 - $80 USD por hora
+NIVEL DE COMPLEJIDAD:   Variable
+TIEMPO DE ENTREGA:      2-12 semanas según alcance
+
+DESCRIPCIÓN:
+Consultoría integral en IT, Financiero, Empresarial y Marketing con enfoque 
+en analítica de negocios y gestión estratégica de información.
+
+SERVICIOS INCLUIDOS:
+├── Analítica de negocios y KPIs estratégicos
+├── Desarrollo y diseño de bases de datos
+├── Consultoría financiera y análisis de costos
+├── Gestión y arquitectura de información
+├── Auditoría de procesos empresariales
+├── Estrategias de transformación digital
+├── Capacitación en herramientas tecnológicas
+└── Planes de implementación y seguimiento
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SERVICIO 6: CONSULTORÍA DE MARKETING BASADO EN DATOS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TARIFA PROFESIONAL:     $40 - $80 USD por hora
+NIVEL DE COMPLEJIDAD:   Medio
+TIEMPO DE ENTREGA:      2-8 semanas según campaña
+
+DESCRIPCIÓN:
+Estrategias de marketing fundamentadas en análisis de datos con segmentación 
+de clientes, análisis de mercado y optimización de campañas digitales.
+
+SERVICIOS INCLUIDOS:
+├── Marketing basado en datos y analytics
+├── Segmentación avanzada de clientes
+├── Análisis de ROI y métricas de conversión
+├── Optimización de campañas publicitarias
+├── Análisis de comportamiento del consumidor
+├── Estrategias de retención y fidelización
+├── A/B testing y experimentación
+└── Reportes de performance y recomendaciones
+
+===============================================================================
+                        PORTAFOLIO DE PROYECTOS TÉCNICOS
+===============================================================================
+
+RESUMEN ESTADÍSTICO:
+├── Total de Proyectos Completados: 28
+├── Repositorios GitHub Activos: 25+
+├── Áreas de Especialización: 4
+├── Tecnologías Dominadas: 10+
+├── Aplicaciones Web Desplegadas: 3
+└── Años de Desarrollo Activo: 2+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CATEGORÍA 1: PROYECTOS DE MACHINE LEARNING (8 PROYECTOS)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. MACHINE LEARNING RRHH
+   ├── Descripción: Análisis predictivo de rotación laboral con 1470 empleados
+   ├── Tecnologías: Python, Random Forest, Power BI, ETL
+   ├── GitHub: https://github.com/Edwin1719/Machine-Learning-RRHH
+   ├── Power BI: Dashboard interactivo disponible
+   └── Fecha: Julio 2024
+
+2. ROBOT DE TRADING
+   ├── Descripción: Automatización de operaciones financieras
+   ├── Tecnologías: Python, APIs financieras, Visualización
+   ├── GitHub: https://github.com/Edwin1719/Robot_Trading
+   └── Características: ETL, análisis técnico, alertas
+
+3. WEB SCRAPING AVANZADO
+   ├── Descripción: Extracción inteligente de datos web
+   ├── Tecnologías: Python, BeautifulSoup, Selenium
+   ├── GitHub: https://github.com/Edwin1719/Web_Scraping_ML
+   └── Aplicaciones: E-commerce, noticias, redes sociales
+
+4. CLUSTERING DE CLIENTES
+   ├── Descripción: Segmentación no supervisada de clientes
+   ├── Tecnologías: K-means, DBSCAN, Análisis de componentes
+   ├── GitHub: https://github.com/Edwin1719/Clustering_Clientes
+   └── Resultados: Estrategias de marketing personalizadas
+
+5. RECOMMENDATION ALGORITHM
+   ├── Descripción: Sistema de recomendaciones colaborativo
+   ├── Tecnologías: Collaborative Filtering, Content-Based
+   ├── GitHub: https://github.com/Edwin1719/Algoritmo_Recomendacionesn
+   └── Aplicaciones: E-commerce, contenido, productos
+
+6. POLARS-EDA
+   ├── Descripción: Análisis exploratorio con Polars (DataFrame rápido)
+   ├── Tecnologías: Polars, Python, Visualización avanzada
+   ├── GitHub: https://github.com/Edwin1719/Polars-EDA
+   └── Ventajas: Procesamiento 10x más rápido que Pandas
+
+7. POO_RECOMM_SPOTIFY
+   ├── Descripción: Sistema de recomendaciones musicales orientado a objetos
+   ├── Tecnologías: Python OOP, Spotify API, Machine Learning
+   ├── GitHub: https://github.com/Edwin1719/POO_Recomm_Spotify
+   └── Características: Marketing musical, análisis de tendencias
+
+8. CREDIT SCORING
+   ├── Descripción: Evaluación de riesgo crediticio mediante ML
+   ├── Tecnologías: Clasificación supervisada, Feature Engineering
+   ├── Aplicaciones: Bancos, fintechs, evaluación de préstamos
+   └── Métricas: Precisión del 94% en predicción de impago
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CATEGORÍA 2: PROYECTOS DE VISUALIZACIÓN DE DATOS (4 PROYECTOS)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. CUSTOMER CLUSTER POWER BI
+   ├── Descripción: Dashboard de segmentación de clientes
+   ├── Tecnologías: Power BI, DAX, Diseño UX
+   ├── GitHub: https://github.com/Edwin1719/Cluster_Clientes_POWER-BI
+   └── Características: Interactividad, filtros dinámicos, KPIs
+
+2. SALES ANALYSIS POWER BI
+   ├── Descripción: Análisis integral de ventas empresariales
+   ├── Tecnologías: Power BI, SQL Server, Diseño gráfico
+   ├── Métricas: Ventas, tendencias, comparativos, forecasting
+   └── Usuarios: Gerencias comerciales, equipos de ventas
+
+3. EXPENSES VS BUDGET POWER BI
+   ├── Descripción: Control presupuestario y análisis de gastos
+   ├── Tecnologías: Power BI, Excel, Diseño de iconos
+   ├── Características: Alertas automáticas, comparativos
+   └── Beneficios: Control financiero, optimización de costos
+
+4. PRODUCTS ECOMMERCE ANALYSIS
+   ├── Descripción: Análisis de productos y ofertas e-commerce
+   ├── Tecnologías: Power BI, APIs, Marketing analytics
+   ├── Métricas: Conversión, ROI, comportamiento de compra
+   └── Aplicaciones: Tiendas online, marketplaces
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CATEGORÍA 3: PROYECTOS DE AUTOMATIZACIÓN (6 PROYECTOS)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. URL SHORTENER
+   ├── Descripción: Acortador de enlaces automatizado
+   ├── Tecnologías: Python, Flask, Base de datos
+   ├── GitHub: https://github.com/Edwin1719/Shor_Link
+   ├── Demo: https://is.gd/Acortador_url
+   └── Características: Estadísticas, gestión de enlaces
+
+2. PDF DATA EXTRACTION
+   ├── Descripción: Extracción automática de datos de PDFs
+   ├── Tecnologías: Python, PyPDF2, Tabula, OCR
+   ├── GitHub: https://github.com/Edwin1719/PDF_Data_Extraction
+   ├── Demo: https://is.gd/Extraer_datos_PDF
+   └── Aplicaciones: Facturas, contratos, formularios
+
+3. FILE CONVERTER
+   ├── Descripción: Conversor universal de archivos
+   ├── Tecnologías: Python, Streamlit, Multiple libraries
+   ├── GitHub: https://github.com/Edwin1719/File_Converter
+   ├── App: https://file-converter-isxc.onrender.com/
+   └── Formatos: PDF, Word, Excel, Imágenes, Audio, Video
+
+4. WORD AUTOMATION
+   ├── Descripción: Automatización de documentos Word
+   ├── Tecnologías: Python, python-docx, Template processing
+   ├── GitHub: https://github.com/Edwin1719/Word_Automation
+   └── Características: Plantillas, mail merge, formatos
+
+5. ECO EXPLORER
+   ├── Descripción: Explorador ecológico automatizado
+   ├── Tecnologías: Python, Streamlit, APIs ambientales
+   ├── GitHub: https://github.com/Edwin1719/Eco_Explorer
+   ├── App: https://ecoexplorer-hbhvy24maxwmqjnmy8uwef.streamlit.app/
+   └── Funciones: Datos ambientales, sostenibilidad
+
+6. JOIN PDF
+   ├── Descripción: Unión automática de documentos PDF
+   ├── Tecnologías: Python, PyPDF2, Automation
+   ├── GitHub: https://github.com/Edwin1719/JOIN_PDF
+   └── Características: Batch processing, preservación de formato
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CATEGORÍA 4: PROYECTOS DE INTELIGENCIA ARTIFICIAL (10 PROYECTOS)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. BUILD CHAT PDF
+   ├── Descripción: Chat inteligente con documentos PDF
+   ├── Tecnologías: OpenAI, LangChain, RAG (Retrieval Augmented Generation)
+   ├── GitHub: https://github.com/Edwin1719/Query_PDF
+   └── Características: Consultas naturales, contexto preservado
+
+2. VIRTUAL ASSISTANT CHATBOTS
+   ├── Descripción: Asistentes virtuales conversacionales
+   ├── Tecnologías: Deep Learning, NLP, Neural Networks
+   ├── GitHub: https://github.com/Edwin1719/CHATBOT
+   └── Aplicaciones: Atención al cliente, soporte técnico
+
+3. SQL TALK
+   ├── Descripción: Conversación natural con bases de datos
+   ├── Tecnologías: Natural Language to SQL, GPT integration
+   ├── GitHub: https://github.com/Edwin1719/SQL_Talk
+   └── Beneficios: Consultas sin conocimiento técnico
+
+4. FACE DETECTION
+   ├── Descripción: Reconocimiento facial avanzado
+   ├── Tecnologías: Computer Vision, OpenCV, Deep Learning
+   ├── GitHub: https://github.com/Edwin1719/Face_Detection
+   └── Aplicaciones: Seguridad, control de acceso, analytics
+
+5. SENTIMENT ANALYSIS
+   ├── Descripción: Análisis de sentimientos y emociones
+   ├── Tecnologías: NLP, BERT, Transformers, IA Generativa
+   ├── GitHub: https://github.com/Edwin1719/Sentimenlitycs/
+   └── Aplicaciones: Redes sociales, reviews, atención al cliente
+
+6. AI INVESTMENT AGENT
+   ├── Descripción: Agente de inversiones con IA
+   ├── Tecnologías: FinTech APIs, Reinforcement Learning
+   ├── GitHub: https://github.com/Edwin1719/Broker_IA
+   └── Características: Análisis de mercado, recomendaciones
+
+7. VOICE TO VOICE TRANSLATOR
+   ├── Descripción: Traductor de voz en tiempo real
+   ├── Tecnologías: Speech Recognition, Translation APIs, TTS
+   ├── GitHub: https://github.com/Edwin1719/Py_Voice
+   └── Idiomas: Múltiples idiomas, procesamiento en tiempo real
+
+8. CHATBOT OLLAMA 3.2
+   ├── Descripción: Bot conversacional con modelo local
+   ├── Tecnologías: Ollama, Local LLM, Privacy-focused
+   ├── GitHub: https://github.com/Edwin1719/CHATBOT_OLLAMA-3.2
+   └── Ventajas: Sin dependencia de APIs, privacidad total
+
+9. TEXT TO IMAGE
+   ├── Descripción: Generación de imágenes desde texto
+   ├── Tecnologías: Stable Diffusion, DALL-E integration
+   ├── GitHub: https://github.com/Edwin1719/Text_Image
+   └── Aplicaciones: Marketing, diseño, contenido visual
+
+10. TEXT TO VOICE
+    ├── Descripción: Síntesis de voz desde texto
+    ├── Tecnologías: TTS engines, Neural voices, Audio processing
+    ├── GitHub: https://github.com/Edwin1719/Text_to_Voice
+    └── Características: Voces naturales, múltiples idiomas
+
+===============================================================================
+                           PROPUESTA DE VALOR ÚNICA
+===============================================================================
+
+DIFERENCIADORES COMPETITIVOS:
+
+1. EXPERIENCIA MULTISECTORIAL COMPROBADA
+   └── 12+ años combinando ingeniería industrial con tecnología avanzada
+
+2. PORTFOLIO TÉCNICO ROBUSTO  
+   └── 28 proyectos demostrables con código fuente disponible
+
+3. CERTIFICACIONES OFICIALES
+   └── Microsoft, instituciones académicas reconocidas internacionalmente
+
+4. METODOLOGÍA INTEGRAL
+   └── Desde análisis descriptivo hasta IA generativa de vanguardia
+
+5. TARIFAS COMPETITIVAS INTERNACIONALES
+   └── $40-150 USD/hora alineadas con estándares globales
+
+6. ENFOQUE EMPRESARIAL PRÁCTICO
+   └── Soluciones que generan ROI medible y sostenible
+
+7. SOPORTE CONTINUO Y MANTENIMIENTO
+   └── Relaciones a largo plazo, no solo entrega de proyectos
+
+8. ADAPTABILIDAD TECNOLÓGICA
+   └── Actualización constante con las últimas tendencias del sector
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TESTIMONIO DE VALOR:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+"La combinación perfecta entre experiencia industrial sólida y expertise 
+tecnológico avanzado. Edwin Quintero aporta más de una década de experiencia 
+práctica en gestión de proyectos complejos, complementada con competencias de 
+vanguardia en ciencia de datos e inteligencia artificial. Esta dualidad única 
+le permite entender profundamente los desafíos empresariales reales y 
+desarrollar soluciones tecnológicas que generan resultados medibles y 
+sostenibles."
+
+===============================================================================
+                              MERCADO OBJETIVO
+===============================================================================
+
+SECTORES ATENDIDOS:
+├── Construcción e Infraestructura (Experiencia especializada)
+├── Pequeñas y Medianas Empresas (PyMEs) en proceso de digitalización  
+├── Startups Tecnológicas que requieren MVP y escalabilidad
+├── Empresas de Servicios que buscan optimización de procesos
+├── Sector Financiero (Fintechs, bancos, seguros)
+├── E-commerce y Retail (Análisis de clientes y ventas)
+├── Educación y Capacitación (EdTech, LMS)
+└── Sector Salud (Análisis de datos médicos, seguimiento pacientes)
+
+GEOGRAFÍA DE SERVICIOS:
+├── Nacional: Colombia (Presencial y remoto)
+├── Regional: América Latina (Remoto, zona horaria compatible)
+├── Internacional: Estados Unidos, España, México (Remoto)
+└── Global: Proyectos específicos bajo demanda
+
+TIPOS DE CLIENTES:
+├── Gerentes de IT y Transformación Digital
+├── Directores de Datos y Analytics
+├── CTOs y responsables tecnológicos
+├── Consultoras que requieren subcontratación especializada
+├── Agencias de marketing digital
+└── Empresarios y emprendedores en crecimiento
+
+===============================================================================
+                            PROCESO DE CONTRATACIÓN
+===============================================================================
+
+ETAPAS DEL PROCESO:
+
+1. CONSULTA INICIAL GRATUITA (30 minutos)
+   ├── Análisis de necesidades empresariales
+   ├── Evaluación de viabilidad técnica
+   ├── Estimación preliminar de tiempos y costos
+   └── Propuesta de enfoque metodológico
+
+2. PROPUESTA TÉCNICA DETALLADA
+   ├── Alcance específico del proyecto
+   ├── Metodología y fases de implementación
+   ├── Cronograma detallado con hitos
+   ├── Presupuesto desglosado por actividades
+   └── Entregables y criterios de aceptación
+
+3. CONTRATO Y TÉRMINOS
+   ├── Acuerdo de confidencialidad (NDA)
+   ├── Términos de pago (50% inicial, 50% entrega)
+   ├── Garantías y soporte post-implementación
+   └── Cláusulas de modificación y escalabilidad
+
+4. EJECUCIÓN DEL PROYECTO
+   ├── Reuniones de seguimiento semanales
+   ├── Reportes de avance y demos parciales
+   ├── Validación continua con stakeholders
+   └── Testing y ajustes según feedback
+
+5. ENTREGA Y CAPACITACIÓN
+   ├── Documentación técnica completa
+   ├── Capacitación al equipo cliente
+   ├── Período de soporte incluido (1-3 meses)
+   └── Mantenimiento y evolutivos (opcional)
+
+MODALIDADES DE CONTRATACIÓN:
+├── Proyecto cerrado (Precio fijo por entregables)
+├── Tiempo y materiales (Tarifa por hora)
+├── Retainer mensual (Horas disponibles por mes)
+└── Consultoría estratégica (Asesoría ejecutiva)
+
+===============================================================================
+                         INFORMACIÓN DE CONTACTO COMPLETA
+===============================================================================
+
+CANALES DE COMUNICACIÓN EMPRESARIAL:
+
+📧 CORREO ELECTRÓNICO:
+├── Principal:     databiq29@gmail.com
+└── Alternativo:   egqa1975@gmail.com
+
+📞 TELÉFONOS:
+├── Principal:     +57 321 719 9749 (WhatsApp Business disponible)
+├── Alternativo:   +57 302 857 7491
+└── Horarios:      Lunes a Viernes 8:00 AM - 6:00 PM (GMT-5)
+
+🌐 PRESENCIA DIGITAL:
+├── Sitio Web:     https://www.databiq.com
+├── GitHub:        https://github.com/Edwin1719
+├── LinkedIn:      https://www.linkedin.com/in/edwinquintero0329/
+└── Portafolio:    https://distinct-buzzard-43f.notion.site/
+
+📍 UBICACIÓN FÍSICA:
+├── Dirección:     Calle 62ª # 5A 13, Barrio Parque Industrial
+├── Ciudad:        Pereira, Risaralda
+├── País:          Colombia
+└── Código Postal: 660001
+
+💬 MENSAJERÍA INSTANTÁNEA:
+├── WhatsApp Business: +57 321 719 9749
+├── Enlace directo: https://wa.me/573217199749
+└── Mensaje sugerido: "Hola DATABiQ, estoy interesado en sus servicios"
+
+🕒 DISPONIBILIDAD:
+├── Zona Horaria:  GMT-5 (Colombia)
+├── Horario Comercial: Lunes a Viernes 8:00 AM - 6:00 PM
+├── Consultas urgentes: Fines de semana (bajo cita previa)
+└── Servicios remotos: 24/7 según acuerdo de SLA
+
+===============================================================================
+                               TÉRMINOS LEGALES
+===============================================================================
+
+CONDICIONES GENERALES:
+
+├── Todos los precios están expresados en dólares estadounidenses (USD)
+├── Las tarifas pueden variar según complejidad y urgencia del proyecto  
+├── Los proyectos incluyen 1-3 meses de soporte post-implementación
+├── Se requiere acuerdo de confidencialidad para proyectos sensibles
+├── Los códigos fuente desarrollados pertenecen al cliente tras pago completo
+├── DATABiQ se reserva el derecho de usar proyectos como referencia comercial
+├── Pagos mediante transferencia bancaria, PayPal, o criptomonedas
+└── Política de satisfacción garantizada o devolución del dinero
+
+PROPIEDAD INTELECTUAL:
+├── Metodologías y frameworks: Propiedad de DATABiQ
+├── Código específico del cliente: Transferencia completa tras pago
+├── Librerías y herramientas open source: Licencias respectivas
+└── Documentación técnica: Compartida bajo acuerdo de licencia
+
+===============================================================================
+                            DECLARACIÓN DE MISIÓN
+===============================================================================
+
+"En DATABiQ, transformamos la complejidad de los datos en claridad estratégica. 
+Nuestra misión es democratizar el poder de la inteligencia artificial y la 
+ciencia de datos, haciendo que estas tecnologías avanzadas sean accesibles y 
+aplicables para empresas de todos los tamaños.
+
+Combinamos rigor técnico con comprensión empresarial profunda, asegurando que 
+cada solución que desarrollamos no solo sea tecnológicamente sólida, sino que 
+también genere valor real y medible para nuestros clientes.
+
+Creemos en el poder transformador de los datos para impulsar la innovación, 
+optimizar operaciones y crear ventajas competitivas sostenibles. Nuestro 
+compromiso es acompañar a las organizaciones en su viaje hacia la 
+transformación digital, proporcionando no solo soluciones técnicas, sino 
+también el conocimiento y las herramientas necesarias para prosperar en la 
+era de la información."
+
+===============================================================================
+                              VISIÓN CORPORATIVA
+===============================================================================
+
+"Ser la consultora de referencia en América Latina para la implementación de 
+soluciones de inteligencia artificial y ciencia de datos, reconocida por la 
+excelencia técnica, la innovación constante y el impacto tangible en el 
+crecimiento empresarial de nuestros clientes.
+
+Aspiramos a liderar la democratización de las tecnologías emergentes, haciendo 
+que la inteligencia artificial sea una herramienta accesible y estratégica 
+para empresas de todos los sectores y tamaños, contribuyendo así al desarrollo 
+económico y tecnológico de la región."
+
+===============================================================================
+                                FIN DEL DOCUMENTO
+===============================================================================
+
+Documento generado el: Diciembre 2024
+Versión: 1.0
+Próxima revisión programada: Marzo 2025
+
+Para obtener información actualizada sobre servicios, proyectos y 
+disponibilidad, visite: https://www.databiq.com o contacte directamente 
+a través de los canales de comunicación proporcionados.
+
+© 2024 DATABiQ - Todos los derechos reservados
+"Transformamos datos complejos en soluciones estratégicas para su negocio"

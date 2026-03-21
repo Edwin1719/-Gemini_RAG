@@ -1,0 +1,18 @@
+# RAG Multimodal con Gemini Embeddings 2 + LLM
+# ==============================================
+
+# Interfaz web
+streamlit>=1.30.0
+
+# Google GenAI SDK (incluye embeddings y LLM)
+google-genai>=0.1.0
+
+# Base de datos vectorial
+chromadb>=0.4.0
+
+# Utilidades
+python-dotenv>=1.0.0
+numpy>=1.24.0
+
+# Manejo de PDFs (para extraer texto de PDFs > 6 páginas)
+PyPDF2>=3.0.0
