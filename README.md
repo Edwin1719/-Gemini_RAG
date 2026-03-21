@@ -2,6 +2,8 @@
 
 Aplicación Streamlit que permite cargar archivos de diferentes formatos y realizar **búsquedas semánticas con Chat RAG** usando **Gemini Embeddings 2** y **Gemini LLM**.
 
+![texto del vínculo](https://i.ytimg.com/vi/zUkKvWBJ_0I/maxresdefault.jpg)
+
 ## ✨ Características Principales
 
 - **📤 Carga Multimodal:** Soporta texto, imágenes, PDF, audio y video
