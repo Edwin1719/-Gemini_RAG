@@ -16,6 +16,8 @@ Aplicación Streamlit que permite cargar archivos de diferentes formatos y reali
 - **⚡ Caché Inteligente:** Evita reprocesar archivos que no han cambiado (ahorro de 80-90% en costos)
 - **📚 Citas Interactivas:** Visualiza los fragmentos exactos usados para generar cada respuesta
 
+![texto del vínculo]()
+
 ## 🎯 Novedades - Mejoras Implementadas
 
 ### 🔹 Umbrales Dinámicos por Tipo de Archivo
