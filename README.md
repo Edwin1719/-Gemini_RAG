@@ -16,7 +16,7 @@ Aplicación Streamlit que permite cargar archivos de diferentes formatos y reali
 - **⚡ Caché Inteligente:** Evita reprocesar archivos que no han cambiado (ahorro de 80-90% en costos)
 - **📚 Citas Interactivas:** Visualiza los fragmentos exactos usados para generar cada respuesta
 
-![texto del vínculo]()
+![texto del vínculo](https://github.com/Edwin1719/-Gemini_RAG/blob/main/Data/IMG1.gif)
 
 ## 🎯 Novedades - Mejoras Implementadas
 
